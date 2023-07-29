@@ -1,0 +1,376 @@
+2023-07-29 14:41:09,505 - open log page -INFO - open page
+2023-07-29 14:41:11,221 - open log page -INFO - close page
+2023-07-29 14:42:32,608 - open log page -INFO - open page
+2023-07-29 14:42:34,047 - open log page -INFO - close page
+2023-07-29 14:50:15,063 - open log page -INFO - open page
+2023-07-29 14:50:16,497 - open log page -INFO - close page
+2023-07-29 14:52:51,041 - open log page -INFO - open page
+2023-07-29 14:52:52,645 - open log page -INFO - close page
+2023-07-29 14:57:43,845 - open log page -INFO - open page
+2023-07-29 14:57:46,234 - open log page -INFO - close page
+2023-07-29 15:10:45,279 - open log page -INFO - open page
+2023-07-29 15:10:47,159 - open log page -INFO - close page
+2023-07-29 15:22:03,734 - open log page -INFO - open page
+2023-07-29 15:22:05,968 - open log page -INFO - close page
+2023-07-29 15:27:21,587 - open log page -INFO - open page
+2023-07-29 15:27:27,099 - open log page -INFO - enter username
+2023-07-29 15:27:31,231 - open log page -INFO - enter password
+2023-07-29 15:27:35,431 - open log page -INFO - click on login button
+2023-07-29 15:27:36,062 - open log page -INFO - close page
+2023-07-29 15:31:33,998 - open log page -INFO - open page
+2023-07-29 15:31:47,914 - open log page -INFO - enter username
+2023-07-29 15:31:52,013 - open log page -INFO - enter password
+2023-07-29 15:31:56,183 - open log page -INFO - click on login button
+2023-07-29 15:31:56,551 - open log page -INFO - close page
+2023-07-29 15:32:58,365 - open log page -INFO - open page
+2023-07-29 15:33:03,073 - open log page -INFO - close page
+2023-07-29 15:33:17,356 - open log page -INFO - open page
+2023-07-29 15:33:20,326 - open log page -INFO - enter username
+2023-07-29 15:33:20,411 - open log page -INFO - enter password
+2023-07-29 15:33:20,537 - open log page -INFO - click on login button
+2023-07-29 15:33:20,574 - open log page -INFO - Right title
+2023-07-29 15:33:21,177 - open log page -INFO - close page
+2023-07-29 15:50:03,170 - open log page -INFO - open page
+2023-07-29 15:50:04,421 - open log page -INFO - enter username
+2023-07-29 15:50:04,533 - open log page -INFO - enter password
+2023-07-29 15:50:04,689 - open log page -INFO - click on login button
+2023-07-29 15:50:05,174 - open log page -INFO - close page
+2023-07-29 15:50:06,622 - open log page -INFO - open page
+2023-07-29 15:50:07,617 - open log page -INFO - enter username
+2023-07-29 15:50:07,738 - open log page -INFO - enter password
+2023-07-29 15:50:07,882 - open log page -INFO - click on login button
+2023-07-29 15:50:08,633 - open log page -INFO - close page
+2023-07-29 15:50:59,764 - open log page -INFO - open page
+2023-07-29 15:51:00,954 - open log page -INFO - enter username
+2023-07-29 15:51:01,062 - open log page -INFO - enter password
+2023-07-29 15:51:01,189 - open log page -INFO - click on login button
+2023-07-29 15:51:01,576 - open log page -INFO - close page
+2023-07-29 15:51:03,165 - open log page -INFO - open page
+2023-07-29 15:51:04,220 - open log page -INFO - enter username
+2023-07-29 15:51:04,331 - open log page -INFO - enter password
+2023-07-29 15:51:04,477 - open log page -INFO - click on login button
+2023-07-29 15:51:05,037 - open log page -INFO - close page
+2023-07-29 15:53:17,786 - open log page -INFO - open page
+2023-07-29 15:53:18,948 - open log page -INFO - enter username
+2023-07-29 15:53:19,051 - open log page -INFO - enter password
+2023-07-29 15:53:19,186 - open log page -INFO - click on login button
+2023-07-29 15:53:19,657 - open log page -INFO - close page
+2023-07-29 15:53:21,172 - open log page -INFO - open page
+2023-07-29 15:53:22,225 - open log page -INFO - enter username
+2023-07-29 15:53:22,343 - open log page -INFO - enter password
+2023-07-29 15:53:22,490 - open log page -INFO - click on login button
+2023-07-29 15:53:23,097 - open log page -INFO - close page
+2023-07-29 15:55:19,988 - open log page -INFO - open page
+2023-07-29 15:55:21,183 - open log page -INFO - enter username
+2023-07-29 15:55:21,290 - open log page -INFO - enter password
+2023-07-29 15:55:21,421 - open log page -INFO - click on login button
+2023-07-29 15:55:21,813 - open log page -INFO - close page
+2023-07-29 15:55:23,148 - open log page -INFO - open page
+2023-07-29 15:55:24,168 - open log page -INFO - enter username
+2023-07-29 15:55:24,306 - open log page -INFO - enter password
+2023-07-29 15:55:24,451 - open log page -INFO - click on login button
+2023-07-29 15:55:25,113 - open log page -INFO - close page
+2023-07-29 15:56:59,296 - open log page -INFO - open page
+2023-07-29 15:57:00,481 - open log page -INFO - enter username
+2023-07-29 15:57:00,584 - open log page -INFO - enter password
+2023-07-29 15:57:00,692 - open log page -INFO - click on login button
+2023-07-29 15:57:01,101 - open log page -INFO - close page
+2023-07-29 15:57:02,486 - open log page -INFO - open page
+2023-07-29 15:57:03,699 - open log page -INFO - enter username
+2023-07-29 15:57:03,831 - open log page -INFO - enter password
+2023-07-29 15:57:03,981 - open log page -INFO - click on login button
+2023-07-29 15:57:04,671 - open log page -INFO - close page
+2023-07-29 16:12:25,634 - open log page -INFO - open page
+2023-07-29 16:12:25,749 - open log page -INFO - open page
+2023-07-29 16:12:28,093 - open log page -INFO - enter username
+2023-07-29 16:12:28,161 - open log page -INFO - enter username
+2023-07-29 16:12:28,308 - open log page -INFO - enter password
+2023-07-29 16:12:28,484 - open log page -INFO - enter password
+2023-07-29 16:12:28,676 - open log page -INFO - click on login button
+2023-07-29 16:12:28,849 - open log page -INFO - Right title
+2023-07-29 16:12:29,066 - open log page -INFO - click on login button
+2023-07-29 16:12:29,081 - open log page -INFO - Right title
+2023-07-29 16:12:29,664 - open log page -INFO - close page
+2023-07-29 16:12:29,680 - open log page -INFO - close page
+2023-07-29 16:14:01,989 - open log page -INFO - open page
+2023-07-29 16:14:03,607 - open log page -INFO - enter username
+2023-07-29 16:14:03,716 - open log page -INFO - enter password
+2023-07-29 16:14:03,905 - open log page -INFO - click on login button
+2023-07-29 16:14:03,932 - open log page -INFO - Right title
+2023-07-29 16:14:04,356 - open log page -INFO - close page
+2023-07-29 16:18:31,641 - open log page -INFO - open page
+2023-07-29 16:18:32,913 - open log page -INFO - enter username
+2023-07-29 16:18:33,033 - open log page -INFO - enter password
+2023-07-29 16:18:33,188 - open log page -INFO - click on login button
+2023-07-29 16:18:33,717 - open log page -INFO - close page
+2023-07-29 16:18:35,337 - open log page -INFO - open page
+2023-07-29 16:18:36,346 - open log page -INFO - enter username
+2023-07-29 16:18:36,458 - open log page -INFO - enter password
+2023-07-29 16:18:36,600 - open log page -INFO - click on login button
+2023-07-29 16:18:37,356 - open log page -INFO - close page
+2023-07-29 16:18:38,899 - open log page -INFO - open page
+2023-07-29 16:18:41,439 - open log page -INFO - enter username
+2023-07-29 16:18:41,553 - open log page -INFO - enter password
+2023-07-29 16:18:41,647 - open log page -INFO - click on login button
+2023-07-29 16:18:41,930 - open log page -INFO - close page
+2023-07-29 16:18:43,453 - open log page -INFO - open page
+2023-07-29 16:18:44,870 - open log page -INFO - enter username
+2023-07-29 16:18:44,990 - open log page -INFO - enter password
+2023-07-29 16:18:45,076 - open log page -INFO - click on login button
+2023-07-29 16:18:45,361 - open log page -INFO - close page
+2023-07-29 16:18:46,855 - open log page -INFO - open page
+2023-07-29 16:18:47,799 - open log page -INFO - enter username
+2023-07-29 16:18:47,929 - open log page -INFO - enter password
+2023-07-29 16:18:48,011 - open log page -INFO - click on login button
+2023-07-29 16:18:48,288 - open log page -INFO - close page
+2023-07-29 16:18:49,819 - open log page -INFO - open page
+2023-07-29 16:18:51,855 - open log page -INFO - enter username
+2023-07-29 16:18:51,990 - open log page -INFO - enter password
+2023-07-29 16:18:52,095 - open log page -INFO - click on login button
+2023-07-29 16:18:52,390 - open log page -INFO - close page
+2023-07-29 16:18:54,551 - open log page -INFO - open page
+2023-07-29 16:18:55,667 - open log page -INFO - enter username
+2023-07-29 16:18:55,758 - open log page -INFO - enter password
+2023-07-29 16:18:55,843 - open log page -INFO - click on login button
+2023-07-29 16:18:56,116 - open log page -INFO - close page
+2023-07-29 16:19:49,961 - open log page -INFO - open page
+2023-07-29 16:19:51,090 - open log page -INFO - enter username
+2023-07-29 16:19:51,209 - open log page -INFO - enter password
+2023-07-29 16:19:51,370 - open log page -INFO - click on login button
+2023-07-29 16:19:51,843 - open log page -INFO - close page
+2023-07-29 16:19:53,308 - open log page -INFO - open page
+2023-07-29 16:19:54,304 - open log page -INFO - enter username
+2023-07-29 16:19:54,421 - open log page -INFO - enter password
+2023-07-29 16:19:54,624 - open log page -INFO - click on login button
+2023-07-29 16:19:55,191 - open log page -INFO - close page
+2023-07-29 16:19:56,594 - open log page -INFO - open page
+2023-07-29 16:19:57,636 - open log page -INFO - enter username
+2023-07-29 16:19:57,755 - open log page -INFO - enter password
+2023-07-29 16:19:57,839 - open log page -INFO - click on login button
+2023-07-29 16:19:58,100 - open log page -INFO - close page
+2023-07-29 16:19:59,390 - open log page -INFO - open page
+2023-07-29 16:20:00,863 - open log page -INFO - enter username
+2023-07-29 16:20:00,955 - open log page -INFO - enter password
+2023-07-29 16:20:01,028 - open log page -INFO - click on login button
+2023-07-29 16:20:01,675 - open log page -INFO - close page
+2023-07-29 16:20:03,025 - open log page -INFO - open page
+2023-07-29 16:20:04,057 - open log page -INFO - enter username
+2023-07-29 16:20:04,177 - open log page -INFO - enter password
+2023-07-29 16:20:04,258 - open log page -INFO - click on login button
+2023-07-29 16:20:04,484 - open log page -INFO - close page
+2023-07-29 16:20:06,844 - open log page -INFO - open page
+2023-07-29 16:20:07,817 - open log page -INFO - enter username
+2023-07-29 16:20:07,946 - open log page -INFO - enter password
+2023-07-29 16:20:08,027 - open log page -INFO - click on login button
+2023-07-29 16:20:08,366 - open log page -INFO - close page
+2023-07-29 16:20:09,710 - open log page -INFO - open page
+2023-07-29 16:20:10,730 - open log page -INFO - enter username
+2023-07-29 16:20:10,852 - open log page -INFO - enter password
+2023-07-29 16:20:10,939 - open log page -INFO - click on login button
+2023-07-29 16:20:11,188 - open log page -INFO - close page
+2023-07-29 16:20:12,562 - open log page -INFO - open page
+2023-07-29 16:20:13,571 - open log page -INFO - enter username
+2023-07-29 16:20:13,693 - open log page -INFO - enter password
+2023-07-29 16:20:13,777 - open log page -INFO - click on login button
+2023-07-29 16:20:14,053 - open log page -INFO - close page
+2023-07-29 16:20:15,407 - open log page -INFO - open page
+2023-07-29 16:20:17,419 - open log page -INFO - enter username
+2023-07-29 16:20:17,537 - open log page -INFO - enter password
+2023-07-29 16:20:17,626 - open log page -INFO - click on login button
+2023-07-29 16:20:17,950 - open log page -INFO - close page
+2023-07-29 16:20:19,339 - open log page -INFO - open page
+2023-07-29 16:20:20,406 - open log page -INFO - enter username
+2023-07-29 16:20:20,532 - open log page -INFO - enter password
+2023-07-29 16:20:20,616 - open log page -INFO - click on login button
+2023-07-29 16:20:21,059 - open log page -INFO - close page
+2023-07-29 16:20:22,369 - open log page -INFO - open page
+2023-07-29 16:20:23,277 - open log page -INFO - enter username
+2023-07-29 16:20:23,359 - open log page -INFO - enter password
+2023-07-29 16:20:23,453 - open log page -INFO - click on login button
+2023-07-29 16:20:23,727 - open log page -INFO - close page
+2023-07-29 16:20:25,102 - open log page -INFO - open page
+2023-07-29 16:20:26,073 - open log page -INFO - enter username
+2023-07-29 16:20:26,156 - open log page -INFO - enter password
+2023-07-29 16:20:26,249 - open log page -INFO - click on login button
+2023-07-29 16:20:26,878 - open log page -INFO - close page
+2023-07-29 16:21:47,679 - open log page -INFO - open page
+2023-07-29 16:21:49,011 - open log page -INFO - enter username
+2023-07-29 16:21:49,112 - open log page -INFO - enter password
+2023-07-29 16:21:49,334 - open log page -INFO - click on login button
+2023-07-29 16:21:49,810 - open log page -INFO - close page
+2023-07-29 16:21:51,258 - open log page -INFO - open page
+2023-07-29 16:21:52,281 - open log page -INFO - enter username
+2023-07-29 16:21:52,402 - open log page -INFO - enter password
+2023-07-29 16:21:52,543 - open log page -INFO - click on login button
+2023-07-29 16:21:52,992 - open log page -INFO - close page
+2023-07-29 16:21:54,326 - open log page -INFO - open page
+2023-07-29 16:21:55,337 - open log page -INFO - enter username
+2023-07-29 16:21:55,457 - open log page -INFO - enter password
+2023-07-29 16:21:55,548 - open log page -INFO - click on login button
+2023-07-29 16:21:55,871 - open log page -INFO - close page
+2023-07-29 16:21:57,162 - open log page -INFO - open page
+2023-07-29 16:21:59,493 - open log page -INFO - enter username
+2023-07-29 16:21:59,620 - open log page -INFO - enter password
+2023-07-29 16:21:59,712 - open log page -INFO - click on login button
+2023-07-29 16:22:00,112 - open log page -INFO - close page
+2023-07-29 16:22:01,559 - open log page -INFO - open page
+2023-07-29 16:22:02,743 - open log page -INFO - enter username
+2023-07-29 16:22:02,838 - open log page -INFO - enter password
+2023-07-29 16:22:02,914 - open log page -INFO - click on login button
+2023-07-29 16:22:03,386 - open log page -INFO - close page
+2023-07-29 16:22:05,144 - open log page -INFO - open page
+2023-07-29 16:22:06,158 - open log page -INFO - enter username
+2023-07-29 16:22:06,293 - open log page -INFO - enter password
+2023-07-29 16:22:06,372 - open log page -INFO - click on login button
+2023-07-29 16:22:06,661 - open log page -INFO - close page
+2023-07-29 16:22:08,141 - open log page -INFO - open page
+2023-07-29 16:22:10,153 - open log page -INFO - enter username
+2023-07-29 16:22:10,247 - open log page -INFO - enter password
+2023-07-29 16:22:10,336 - open log page -INFO - click on login button
+2023-07-29 16:22:10,612 - open log page -INFO - close page
+2023-07-29 16:24:07,696 - open log page -INFO - open page
+2023-07-29 16:24:08,892 - open log page -INFO - enter username
+2023-07-29 16:24:09,002 - open log page -INFO - enter password
+2023-07-29 16:24:09,154 - open log page -INFO - click on login button
+2023-07-29 16:24:09,235 - open log page -INFO - Right title
+2023-07-29 16:24:09,615 - open log page -INFO - close page
+2023-07-29 16:24:11,729 - open log page -INFO - open page
+2023-07-29 16:24:13,107 - open log page -INFO - enter username
+2023-07-29 16:24:13,220 - open log page -INFO - enter password
+2023-07-29 16:24:13,302 - open log page -INFO - click on login button
+2023-07-29 16:24:13,644 - open log page -INFO - close page
+2023-07-29 16:24:16,042 - open log page -INFO - open page
+2023-07-29 16:24:17,027 - open log page -INFO - enter username
+2023-07-29 16:24:17,151 - open log page -INFO - enter password
+2023-07-29 16:24:17,235 - open log page -INFO - click on login button
+2023-07-29 16:24:17,520 - open log page -INFO - close page
+2023-07-29 16:24:18,906 - open log page -INFO - open page
+2023-07-29 16:24:20,390 - open log page -INFO - enter username
+2023-07-29 16:24:20,508 - open log page -INFO - enter password
+2023-07-29 16:24:20,592 - open log page -INFO - click on login button
+2023-07-29 16:24:20,861 - open log page -INFO - close page
+2023-07-29 16:24:22,810 - open log page -INFO - open page
+2023-07-29 16:24:24,600 - open log page -INFO - enter username
+2023-07-29 16:24:24,730 - open log page -INFO - enter password
+2023-07-29 16:24:24,830 - open log page -INFO - click on login button
+2023-07-29 16:24:25,718 - open log page -INFO - close page
+2023-07-29 16:24:27,478 - open log page -INFO - open page
+2023-07-29 16:24:28,502 - open log page -INFO - enter username
+2023-07-29 16:24:28,635 - open log page -INFO - enter password
+2023-07-29 16:24:28,729 - open log page -INFO - click on login button
+2023-07-29 16:24:29,039 - open log page -INFO - close page
+2023-07-29 16:24:30,704 - open log page -INFO - open page
+2023-07-29 16:24:33,696 - open log page -INFO - enter username
+2023-07-29 16:24:33,819 - open log page -INFO - enter password
+2023-07-29 16:24:33,903 - open log page -INFO - click on login button
+2023-07-29 16:24:34,175 - open log page -INFO - close page
+2023-07-29 16:24:35,795 - open log page -INFO - open page
+2023-07-29 16:24:36,961 - open log page -INFO - enter username
+2023-07-29 16:24:37,083 - open log page -INFO - enter password
+2023-07-29 16:24:37,195 - open log page -INFO - click on login button
+2023-07-29 16:24:37,557 - open log page -INFO - close page
+2023-07-29 16:24:39,110 - open log page -INFO - open page
+2023-07-29 16:24:40,149 - open log page -INFO - enter username
+2023-07-29 16:24:40,267 - open log page -INFO - enter password
+2023-07-29 16:24:40,360 - open log page -INFO - click on login button
+2023-07-29 16:24:40,714 - open log page -INFO - close page
+2023-07-29 16:24:43,727 - open log page -INFO - open page
+2023-07-29 16:24:44,731 - open log page -INFO - enter username
+2023-07-29 16:24:44,806 - open log page -INFO - enter password
+2023-07-29 16:24:44,892 - open log page -INFO - click on login button
+2023-07-29 16:24:45,150 - open log page -INFO - close page
+2023-07-29 16:24:46,923 - open log page -INFO - open page
+2023-07-29 16:24:47,990 - open log page -INFO - enter username
+2023-07-29 16:24:48,066 - open log page -INFO - enter password
+2023-07-29 16:24:48,156 - open log page -INFO - click on login button
+2023-07-29 16:24:48,424 - open log page -INFO - close page
+2023-07-29 16:25:35,199 - open log page -INFO - open page
+2023-07-29 16:25:36,433 - open log page -INFO - enter username
+2023-07-29 16:25:36,548 - open log page -INFO - enter password
+2023-07-29 16:25:36,671 - open log page -INFO - click on login button
+2023-07-29 16:25:36,702 - open log page -INFO - Right title
+2023-07-29 16:25:37,330 - open log page -INFO - close page
+2023-07-29 16:25:38,750 - open log page -INFO - open page
+2023-07-29 16:25:39,736 - open log page -INFO - enter username
+2023-07-29 16:25:39,860 - open log page -INFO - enter password
+2023-07-29 16:25:39,943 - open log page -INFO - click on login button
+2023-07-29 16:25:39,953 - open log page -INFO - Right title
+2023-07-29 16:25:40,206 - open log page -INFO - close page
+2023-07-29 16:25:41,550 - open log page -INFO - open page
+2023-07-29 16:25:43,275 - open log page -INFO - enter username
+2023-07-29 16:25:43,405 - open log page -INFO - enter password
+2023-07-29 16:25:43,485 - open log page -INFO - click on login button
+2023-07-29 16:25:43,499 - open log page -INFO - Right title
+2023-07-29 16:25:43,755 - open log page -INFO - close page
+2023-07-29 16:25:45,131 - open log page -INFO - open page
+2023-07-29 16:25:46,151 - open log page -INFO - enter username
+2023-07-29 16:25:46,278 - open log page -INFO - enter password
+2023-07-29 16:25:46,357 - open log page -INFO - click on login button
+2023-07-29 16:25:46,373 - open log page -INFO - Right title
+2023-07-29 16:25:47,061 - open log page -INFO - close page
+2023-07-29 16:25:49,781 - open log page -INFO - open page
+2023-07-29 16:25:50,719 - open log page -INFO - enter username
+2023-07-29 16:25:50,842 - open log page -INFO - enter password
+2023-07-29 16:25:50,932 - open log page -INFO - click on login button
+2023-07-29 16:25:50,944 - open log page -INFO - Right title
+2023-07-29 16:25:51,222 - open log page -INFO - close page
+2023-07-29 16:25:52,564 - open log page -INFO - open page
+2023-07-29 16:25:53,607 - open log page -INFO - enter username
+2023-07-29 16:25:53,691 - open log page -INFO - enter password
+2023-07-29 16:25:53,781 - open log page -INFO - click on login button
+2023-07-29 16:25:53,796 - open log page -INFO - Right title
+2023-07-29 16:25:54,013 - open log page -INFO - close page
+2023-07-29 16:28:17,258 - open log page -INFO - open page
+2023-07-29 16:28:21,489 - open log page -INFO - enter username
+2023-07-29 16:28:21,591 - open log page -INFO - enter password
+2023-07-29 16:28:21,703 - open log page -INFO - click on login button
+2023-07-29 16:28:21,735 - open log page -INFO - Right title
+2023-07-29 16:28:22,110 - open log page -INFO - close page
+2023-07-29 16:28:23,461 - open log page -INFO - open page
+2023-07-29 16:28:26,658 - open log page -INFO - enter username
+2023-07-29 16:28:26,777 - open log page -INFO - enter password
+2023-07-29 16:28:26,884 - open log page -INFO - click on login button
+2023-07-29 16:28:26,896 - open log page -INFO - Right title
+2023-07-29 16:28:27,163 - open log page -INFO - close page
+2023-07-29 16:28:28,499 - open log page -INFO - open page
+2023-07-29 16:28:30,949 - open log page -INFO - enter username
+2023-07-29 16:28:31,044 - open log page -INFO - enter password
+2023-07-29 16:28:31,142 - open log page -INFO - click on login button
+2023-07-29 16:28:31,158 - open log page -INFO - Right title
+2023-07-29 16:28:31,408 - open log page -INFO - close page
+2023-07-29 16:28:32,680 - open log page -INFO - open page
+2023-07-29 16:28:34,128 - open log page -INFO - enter username
+2023-07-29 16:28:34,220 - open log page -INFO - enter password
+2023-07-29 16:28:34,289 - open log page -INFO - click on login button
+2023-07-29 16:28:34,298 - open log page -INFO - Right title
+2023-07-29 16:28:34,701 - open log page -INFO - close page
+2023-07-29 16:28:36,025 - open log page -INFO - open page
+2023-07-29 16:28:37,111 - open log page -INFO - enter username
+2023-07-29 16:28:37,229 - open log page -INFO - enter password
+2023-07-29 16:28:37,325 - open log page -INFO - click on login button
+2023-07-29 16:28:37,339 - open log page -INFO - Right title
+2023-07-29 16:28:37,590 - open log page -INFO - close page
+2023-07-29 16:28:38,957 - open log page -INFO - open page
+2023-07-29 16:28:40,843 - open log page -INFO - enter username
+2023-07-29 16:28:40,906 - open log page -INFO - enter password
+2023-07-29 16:28:41,003 - open log page -INFO - click on login button
+2023-07-29 16:28:41,014 - open log page -INFO - Right title
+2023-07-29 16:28:41,269 - open log page -INFO - close page
+2023-07-29 16:33:32,104 - open log page -INFO - open page
+2023-07-29 16:34:13,619 - open log page -INFO - close page
+2023-07-29 16:49:07,341 - open log page -INFO - open page
+2023-07-29 16:49:08,907 - open log page -INFO - enter username
+2023-07-29 16:49:09,047 - open log page -INFO - enter password
+2023-07-29 16:49:09,208 - open log page -INFO - click on login button
+2023-07-29 16:49:09,628 - open log page -INFO - close page
+2023-07-29 16:49:11,461 - open log page -INFO - open page
+2023-07-29 16:49:12,832 - open log page -INFO - enter username
+2023-07-29 16:49:12,948 - open log page -INFO - enter password
+2023-07-29 16:49:13,160 - open log page -INFO - click on login button
+2023-07-29 16:49:13,831 - open log page -INFO - close page
+2023-07-29 16:49:48,878 - open log page -INFO - open page
+2023-07-29 16:49:50,094 - open log page -INFO - enter username
+2023-07-29 16:49:50,209 - open log page -INFO - enter password
+2023-07-29 16:49:50,391 - open log page -INFO - click on login button
+2023-07-29 16:49:50,463 - open log page -INFO - Right title
+2023-07-29 16:49:50,814 - open log page -INFO - close page

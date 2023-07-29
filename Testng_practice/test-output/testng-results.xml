@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-17T13:08:06 IST" name="Default suite" finished-at="2023-07-17T13:08:24 IST" duration-ms="17848">
+    <groups>
+    </groups>
+    <test started-at="2023-07-17T13:08:06 IST" name="Default test" finished-at="2023-07-17T13:08:24 IST" duration-ms="17848">
+      <class name="testng.dp">
+        <test-method is-config="true" signature="openpage()[pri:0, instance:testng.dp@71075444]" started-at="2023-07-17T13:08:06 IST" name="openpage" finished-at="2023-07-17T13:08:13 IST" duration-ms="7548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openpage -->
+        <test-method signature="page(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.dp@71075444]" started-at="2023-07-17T13:08:13 IST" name="page" data-provider="datapass" finished-at="2023-07-17T13:08:14 IST" duration-ms="387" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@yourstore.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page -->
+        <test-method signature="page(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.dp@71075444]" started-at="2023-07-17T13:08:14 IST" name="page" data-provider="datapass" finished-at="2023-07-17T13:08:16 IST" duration-ms="2347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@yourstore.com34]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page -->
+        <test-method signature="page(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.dp@71075444]" started-at="2023-07-17T13:08:16 IST" name="page" data-provider="datapass" finished-at="2023-07-17T13:08:18 IST" duration-ms="1682" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@yourstore.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page -->
+        <test-method signature="page(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.dp@71075444]" started-at="2023-07-17T13:08:18 IST" name="page" data-provider="datapass" finished-at="2023-07-17T13:08:20 IST" duration-ms="1911" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@yourstore.com23]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page -->
+        <test-method signature="page(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testng.dp@71075444]" started-at="2023-07-17T13:08:20 IST" name="page" data-provider="datapass" finished-at="2023-07-17T13:08:21 IST" duration-ms="1464" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page -->
+        <test-method is-config="true" signature="end()[pri:0, instance:testng.dp@71075444]" started-at="2023-07-17T13:08:21 IST" name="end" finished-at="2023-07-17T13:08:24 IST" duration-ms="2398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- testng.dp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
